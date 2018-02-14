@@ -39,9 +39,9 @@ In other words, the company wants to understand the driving factors (or driver v
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
 
-### Process
+## Analysis Begin 
 
-## Data cleaning
+### Data cleaning
 
 Fix rows and columns
 
